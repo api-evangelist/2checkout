@@ -1,1 +1,1 @@
-# 2checkout
+# 2CheckoutThis is a repo for managing machine readable artifacts for the [2Checkout APIs](https://www.2checkout.com/). The goal is to maintain and evolve an OpenAPI, Postman Collection, and APIs.json index for the [2Checkout APIs](https://www.2checkout.com/).They are a constant work in progress, and will be updated on a regular basis when new information is added, or more of the specifications are supported.Feel free to submit a pull request to evolve any of the artifacts, and leave GitHub issues if you have any questions, comments, or feedback.
