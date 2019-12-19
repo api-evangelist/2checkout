@@ -1,5 +1,5 @@
 {
-    "name": "2Checkout",
+    "name": "2checkout",
     "description": "Accept payments online. 2Checkout.com is an online payment processing service that helps you accept credit cards, PayPal and debit cards.",
     "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2169-2checkout.jpg",
     "tags": [
@@ -16,8 +16,8 @@
         "shopping",
         "target"
     ],
-    "created": "2019-12-12",
-    "modified": "2019-12-12",
+    "created": "2019-12-18",
+    "modified": "2019-12-18",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/2checkout\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -32,6 +32,14 @@
                 {
                     "type": "x-openapi",
                     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/2checkout-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/2checkout-postman-collection.json"
                 },
                 {
                     "type": "x-postman-collecction",
